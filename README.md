@@ -1,12 +1,13 @@
 # Car Damage Recognition and Assessment System
 
-## Description
-The **Car Damage Recognition and Assessment System** is a tool designed to automatically detect damage on vehicles. Using advanced image recognition techniques, the system identifies specific areas where damage has occurred and assesses its severity. It provides a detailed analysis, helping users understand the extent of the damage to a car.
 
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+
+## Description
+The **Car Damage Recognition and Assessment System** is a tool designed to automatically detect damage on vehicles. The system identifies specific areas where damage has occurred and assesses its severity. It provides a detailed analysis, helping users understand the extent of the damage to a car.
 
 
 ## Features
@@ -19,7 +20,6 @@ The **Car Damage Recognition and Assessment System** is a tool designed to autom
 - Python
 - OpenCV (for image processing)
 - TensorFlow/Keras (for building deep learning models)
-- Flask (for web framework)
 - HTML/CSS (for front-end interface)
 
 
